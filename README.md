@@ -261,6 +261,8 @@ We can note it starts with ATG & ends with one of the three stop codons.
 As the sequence follows the rule of start and ending codon, in such a case we can use the staticmethod defined in SQ; .translate(p0=0) directly.
 Some interesting discussions about the starting amino acid (ATG is usually the starting codon)
 OPEN READING FRAME
+![image](https://user-images.githubusercontent.com/88907921/227753445-d5b3401c-f12b-4d5b-a0b0-8f43d6dfa884.png)
+
 A reading frame is a way of dividing the DNA sequence into a set of consecutive, non-overlapping triplet nucleotides (possible codons) (using dictionary mapping).
 A given sequence has 3 possible reading frames, first, second and third nucleotide positions. In addition, considering there is another complementary strand, we should compute the only 3 frames corresponding to the reverse compliment.
 In many cases, given a DNA sequence, we don't know in advance where the coding regions are, especially when dealing with complete sequences.
