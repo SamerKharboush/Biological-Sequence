@@ -17,7 +17,7 @@ This script will go through a selection of tutorial excercises from the Biopytho
 
 
 # Seconed Jupytor notebook
-Folder []
+Folder [notebooks]
 
 ![image](https://user-images.githubusercontent.com/88907921/227752967-5695840e-fa19-4eeb-8d9b-969450ef986d.png)
 
